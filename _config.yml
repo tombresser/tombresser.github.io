@@ -29,7 +29,7 @@ author:
   location         : "Netherlands"
   employer         : "Netherlands Institute for Neuroscience"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "t.bresser@nin.knaw.nl" 
 
   # Academic websites
   academic profile : "https://research.vu.nl/en/persons/tom-bresser/"
@@ -42,10 +42,10 @@ author:
 
 
   # Repositories and software development
-  github           : "https://github.com/tombresser"
+  github           : "tombresser"
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/tom-bresser-a9b4a468/"
+  linkedin         : "tom-bresser-a9b4a468"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
