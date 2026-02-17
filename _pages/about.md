@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Start of my personal website.
+My personal website is still under construction.
+
 
 Getting started
 ======
